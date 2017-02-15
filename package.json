@@ -1,14 +1,10 @@
 {
   "name": "@mapbox/geojson-area",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "calculate the physical area of a geojson geometry",
   "main": "index.js",
   "directories": {
     "test": "test"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:mapbox/geojson-area.git"
   },
   "scripts": {
     "test": "tape test/basic.js"

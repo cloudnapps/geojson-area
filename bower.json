@@ -1,5 +1,7 @@
 {
   "name": "geojson-area",
+  "version": "0.2.3",
+  "description": "calculate the physical area of a geojson geometry",
   "main": "index.js",
   "license": "BSD-2-Clause",
   "author": "Tom MacWright",
