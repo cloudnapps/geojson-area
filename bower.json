@@ -1,0 +1,15 @@
+{
+  "name": "geojson-area",
+  "main": "index.js",
+  "license": "BSD-2-Clause",
+  "author": "Tom MacWright",
+  "ignore": [
+    "package.json",
+    "test"
+  ],
+  "keywords": [
+    "geojson-area",
+    "browser",
+    "library"
+  ]
+}
